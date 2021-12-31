@@ -1,16 +1,35 @@
-### Hi there 👋
+![Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQG1nCv-Qs8fYg/profile-displaybackgroundimage-shrink_200_800/0/1609087864442?e=1643241600&v=beta&t=QBNGzEm7_CZ6WknolYaSPGwY1x3gpYedpQM0qSvXCU0)
+### Hi there 👋, I am Sahadat Hossen
+#### Full Stack Web Developer
 
-<!--
-**sahadatjh/sahadatjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Greetings, from Sahadat Hossen. I have 5 year’s+ professional experiences in Software Project Management, Requirement Analysis, Implementation, Programming, Teaching and Managing Team members. I have Successfully Develop and implemented Hospital Management system, Fabric Batch Tracking System, Sweater production management, Store Management System etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: HTML/CSS/JavaScript/PHP/MySQL/Bootstrap/Laravel With Basic Python, C, C#, Java
+
+- 🔭 I’m currently working on Barcodete-Automation Ltd as a Jr. Software Developer  
+
+- 👯 I’m looking to collaborate on Consultancy for your business software solution
+- 💬 Ask me about project details. 
+- 📫 How to reach me: sahadatjh@gmail.com 
+- ⚡ Fun fact: Programmer can't live without coding... 
+
+
+![GitHub metrics](https://metrics.lecoq.io/sahadatjh)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sahadatjh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sahadatjh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sahadatjh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sahadat.jh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sahadatjh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10894511/sahadat-hossen) 
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahadatjh)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahadatjh)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahadatjh&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahadatjh)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sahadatjh)  
+
+![Profile views](https://gpvc.arturio.dev/sahadatjh)  
