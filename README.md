@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQG1nCv-Qs8fYg/profile-displaybackgroundimage-shrink_200_800/0/1609087864442?e=1643241600&v=beta&t=QBNGzEm7_CZ6WknolYaSPGwY1x3gpYedpQM0qSvXCU0)
+
 ### Hi there 👋, I am Sahadat Hossen
 #### Full Stack Web Developer
 
