@@ -7,7 +7,7 @@ Greetings, from Sahadat Hossen. I have 5 year’s+ professional experiences in S
 
 <h4> Skills: PHP | Laravel | MySql | JavaScript | React | NodeJs | MongoDB | Git (github, gitlab, bitbucket) | C, C#, Java, Python (Not Professional) </h4>
 
-- 🔭 I’m currently working on Barcodete-Automation Ltd as a "Web Developer" 
+- 🔭 I’m currently working on Barcodetech-Automation Ltd as a "Software Developer" 
 - 💬 Ask me about project details. 
 - 📫 How to reach me: sahadatjh@gmail.com 
 - ⚡ Fun fact: Programmer can't live without coding... 
