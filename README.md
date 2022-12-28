@@ -5,8 +5,7 @@
 
 Greetings, from Sahadat Hossen. I have 5 year’s+ professional experiences in Software Project Management, Requirement Analysis, Implementation, Programming, Teaching and Managing Team members. I have Successfully Develop and implemented Hospital Management system, Fabric Batch Tracking System, Sweater production management, Store Management System etc.
 
-
-Skills: PHP | Laravel | MySql | JavaScript | React | NodeJs | MongoDB | Git (github, gitlab, bitbucket) | C, C#, Java, Python (Not Professional)
+<h4> Skills: PHP | Laravel | MySql | JavaScript | React | NodeJs | MongoDB | Git (github, gitlab, bitbucket) | C, C#, Java, Python (Not Professional) </h4>
 
 - 🔭 I’m currently working on Barcodete-Automation Ltd as a "Web Developer" 
 - 💬 Ask me about project details. 
