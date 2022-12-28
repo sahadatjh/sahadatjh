@@ -36,7 +36,7 @@ Skills: PHP | Laravel | MySql | JavaScript | React | NodeJs | MongoDB | Git (git
 
 <h1 style="color:red">Profile Visitor</h1>
 
-![Visitor Count](https://profile-counter.glitch.me/Abdullah272056/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sahadatjh/count.svg)
 
 </div>
 
