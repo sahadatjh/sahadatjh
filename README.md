@@ -1,9 +1,9 @@
 
 ### Hi there, I am Sahadat Hossen
-#### Full Stack Web Developer
+#### Software Engineer ( FUll Stack)
 
 
-Greetings, from Sahadat Hossen. I have 5 year’s+ professional experiences in Software Project Management, Requirement Analysis, Implementation, Programming, Teaching and Managing Team members. I have Successfully Develop and implemented Hospital Management system, Fabric Batch Tracking System, Sweater production management, Store Management System etc.
+Greetings, from Sahadat Hossen. I have 4 year’s+ professional experiences in Software Project Management, Requirement Analysis, Implementation, Programming, Teaching and Managing Team members. I have Successfully Develop and implemented Hospital Management system, Fabric Batch Tracking System, Sweater production management, Store Management System etc.
 
 <h4> Skills: NodeJs | Express.js | NestJs| Angular | React.js | JavaScript | Typescript | PHP | Laravel | PostgreSQL | MySQL | MongoDB | Git | Docker  </h4>
 
