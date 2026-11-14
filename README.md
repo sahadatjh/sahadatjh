@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Sahadat Hossen </h1>
-<b align="center">Senior Software Engineer</b> · Node.js · NestJS · TypeScript
-<p align="center">
-  
-  Building scalable SaaS, automation, and ERP-style systems from Dhaka, Bangladesh 🇧🇩
+<p align="center"><b font-size="22px"> AI-First Full-Stack Software Engineer</b> · Node.js · NestJS · TypeScript <br/> Building scalable SaaS, automation, and ERP-style systems from Dhaka, Bangladesh 🇧🇩
 </p>
 
 <p align="center">
